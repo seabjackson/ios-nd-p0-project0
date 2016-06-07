@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E9CF7690F661BDB6A3B371EDAC955173A4C7472E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "62A36F40FD88D27BB1587AFA0E40C2C19596978D" : 0,
+    "E9CF7690F661BDB6A3B371EDAC955173A4C7472E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "776C2C0A-FFB4-4B7C-95FA-6167B2D4A760",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "62A36F40FD88D27BB1587AFA0E40C2C19596978D" : "",
+    "E9CF7690F661BDB6A3B371EDAC955173A4C7472E" : "ios-nd-p0-project0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ProjectZero",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ProjectZero.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/seabjackson\/Udacity-iOS-Developer-Nanodegree.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "62A36F40FD88D27BB1587AFA0E40C2C19596978D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/seabjackson\/ios-nd-p0-project0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E9CF7690F661BDB6A3B371EDAC955173A4C7472E"
+    }
+  ]
+}

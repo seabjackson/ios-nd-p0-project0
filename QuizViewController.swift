@@ -31,12 +31,12 @@ class QuizViewController: UIViewController, AVSpeechSynthesizerDelegate {
   
   
   
-  
+  // control flow
   @IBAction func flagButtonPressed(sender: UIButton) {
     
-    if sender.tag == correctButtonTag{
+    if sender.tag == correctButtonTag {
         displayAlert("Correct",  messageText: "Good choice!")
-    }else{
+    } else {
         displayAlert("Incorrect", messageText: "Nope. Try again!")
     }
     
